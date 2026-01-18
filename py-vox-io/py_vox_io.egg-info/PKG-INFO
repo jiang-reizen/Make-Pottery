@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: py-vox-io
+Version: 0.1
+Summary: A Python parser/write for the MagicaVoxel .vox format
+Home-page: https://github.com/gromgull/py-vox-io/
+Author: Gunnar Aastrand Grimnes
+Author-email: gromgull@gmail.com
+License: BSD
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: license
+Dynamic: license-file
+Dynamic: summary
